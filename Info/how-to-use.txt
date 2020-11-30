@@ -1,0 +1,10 @@
+1. open powershell or command prompt
+2. change your directory to the same directory the main.py file is in
+3. type python main.py in cmd or ps
+4. input what is instructed (attacking email password and email message
+ will be entered in the specified .txt files)
+5. watch the magic happen
+
+<ctrl+c> to quit
+
+the email used to send the emails must be a gmail and have less secure apps turned on**
